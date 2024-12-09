@@ -1,6 +1,6 @@
 # main.py
 
-from dictionary.dictionary import Dictionary
+from Dictionary.dictionary.dictionary import Dictionary
 
 def main():
     d = Dictionary()

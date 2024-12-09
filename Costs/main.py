@@ -1,6 +1,6 @@
 # main.py
 
-from costs.get_total import get_total
+from Costs.costs.get_total import get_total
 
 def main():
     costs = {'socks': 5, 'shoes': 60, 'sweater': 30}

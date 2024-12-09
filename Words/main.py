@@ -1,6 +1,6 @@
 # main.py
 
-from words.get_nth_letter import get_nth_letter
+from Words.words.get_nth_letter import get_nth_letter
 
 def main():
     
